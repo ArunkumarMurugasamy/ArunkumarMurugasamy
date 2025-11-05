@@ -1,6 +1,8 @@
 # Hello, I'm ArunkumarMurugasamy
 <a href="https://www.linkedin.com/in/arunkumar-murugasamy-64003320b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+## Brief Introduction
+
 "I'm a fresher with profound interest in cybersecurity skilled in threat monitoring, incident response, and SIEM tools, eager to safeguard systems and grow in a dynamic security environment."
 
 ## Objective
