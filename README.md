@@ -23,39 +23,26 @@
 </div>
 
 ---
-
-## 👨‍💻 About Me
-
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-```python
-class ArunkumarM:
-    def __init__(self):
-        self.name       = "Arunkumar M"
-        self.location   = "Tiruppur, Tamil Nadu, India"
-        self.role       = "Trainee Automation Tester → Aspiring SOC Analyst"
-        self.education  = "B.Sc (ECS) — Bharathiyar University"
-        self.languages  = ["English", "Tamil"]
-
-        self.siem_tools = ["Splunk", "Wazuh", "Elastic"]
-        self.network    = ["Wireshark", "Suricata", "TCP/IP", "DNS", "DHCP"]
-        self.security   = ["Firewalls", "IPS", "IDS", "WAF", "DMARC", "SPF", "DKIM"]
-        self.platforms  = ["Windows", "Linux", "VMware"]
-        self.scripting  = ["Python", "Bash"]
-
-        self.currently_learning = [
-            "Advanced Threat Hunting",
-            "SOAR Automation with Shuffle",
-            "Cloud Security Fundamentals",
-            "Active Directory Attack Vectors",
-        ]
-
-        self.fun_fact   = "I built a SOC homelab on VMware before landing my first job!"
-
-    def motto(self):
-        return "Detect. Respond. Protect. Repeat."
-```
-
+👨‍💻 About Me
+<table>
+<tr>
+<td valign="top" width="55%">
+Hi there, I'm Arunkumar! 👋
+🎯  Aspiring SOC Analyst with a passion for threat detection & incident response<br/>
+🏢  Currently working at Wipro Technologies as a Trainee Automation Tester<br/>
+🔭  Building hands-on experience through a personal SOC Homelab on VMware<br/>
+🌱  Learning Advanced Threat Hunting, SOAR automation & Cloud Security<br/>
+📍  Based in Tiruppur, Tamil Nadu, India<br/>
+🎓  B.Sc in Electronics & Computer Science — Bharathiyar University<br/>
+💬  Ask me about SIEM, Log Analysis, Network Security, Wireshark<br/>
+⚡  Fun fact: I built a SOC homelab before landing my first job!<br/>
+🧠  Motto: "Detect. Respond. Protect. Repeat."
+</td>
+<td valign="top" width="45%">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="coding gif"/>
+</td>
+</tr>
+</table>
 <br clear="right"/>
 
 ---
