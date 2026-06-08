@@ -36,7 +36,7 @@
 🏢 &nbsp;Currently working at **Wipro Technologies** as a Trainee Automation Tester<br/>
 🔭 &nbsp;Building hands-on experience through a personal **SOC Homelab** on VMware<br/>
 🌱 &nbsp;Learning **Advanced Threat Hunting**, SOAR automation & Cloud Security<br/>
-📍 &nbsp;Based in **Tiruppur, Tamil Nadu, India**<br/>
+📍 &nbsp;Based in **Chennai, Tamil Nadu, India**<br/>
 🎓 &nbsp;B.Sc in Electronics & Computer Science — **Bharathiyar University**<br/>
 💬 &nbsp;Ask me about **SIEM, Log Analysis, Network Security, Wireshark**<br/>
 ⚡ &nbsp;Fun fact: I built a SOC homelab before landing my first job!<br/>
