@@ -23,27 +23,33 @@
 </div>
 
 ---
-👨‍💻 About Me
+
+## 👨‍💻 About Me
+
 <table>
 <tr>
 <td valign="top" width="55%">
-Hi there, I'm Arunkumar! 👋
-🎯  Aspiring SOC Analyst with a passion for threat detection & incident response<br/>
-🏢  Currently working at Wipro Technologies as a Trainee Automation Tester<br/>
-🔭  Building hands-on experience through a personal SOC Homelab on VMware<br/>
-🌱  Learning Advanced Threat Hunting, SOAR automation & Cloud Security<br/>
-📍  Based in Tiruppur, Tamil Nadu, India<br/>
-🎓  B.Sc in Electronics & Computer Science — Bharathiyar University<br/>
-💬  Ask me about SIEM, Log Analysis, Network Security, Wireshark<br/>
-⚡  Fun fact: I built a SOC homelab before landing my first job!<br/>
-🧠  Motto: "Detect. Respond. Protect. Repeat."
+
+### Hi there, I'm Arunkumar! 👋
+
+🎯 &nbsp;Aspiring **SOC Analyst** with a passion for threat detection & incident response<br/>
+🏢 &nbsp;Currently working at **Wipro Technologies** as a Trainee Automation Tester<br/>
+🔭 &nbsp;Building hands-on experience through a personal **SOC Homelab** on VMware<br/>
+🌱 &nbsp;Learning **Advanced Threat Hunting**, SOAR automation & Cloud Security<br/>
+📍 &nbsp;Based in **Tiruppur, Tamil Nadu, India**<br/>
+🎓 &nbsp;B.Sc in Electronics & Computer Science — **Bharathiyar University**<br/>
+💬 &nbsp;Ask me about **SIEM, Log Analysis, Network Security, Wireshark**<br/>
+⚡ &nbsp;Fun fact: I built a SOC homelab before landing my first job!<br/>
+🧠 &nbsp;Motto: *"Detect. Respond. Protect. Repeat."*
+
 </td>
 <td valign="top" width="45%">
+
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="coding gif"/>
+
 </td>
 </tr>
 </table>
-<br clear="right"/>
 
 ---
 
@@ -91,13 +97,10 @@ Hi there, I'm Arunkumar! 👋
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/ArunkumarMurugasamy">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ArunkumarMurugasamy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/ArunkumarMurugasamy">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunkumarMurugasamy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
-  </a>
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArunkumarMurugasamy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunkumarMurugasamy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800" alt="Top Languages"/>
+
 </div>
 
 ---
@@ -105,7 +108,7 @@ Hi there, I'm Arunkumar! 👋
 ## 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ArunkumarMurugasamy&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img width="70%" src="https://streak-stats.demolab.com/?user=ArunkumarMurugasamy&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -113,7 +116,7 @@ Hi there, I'm Arunkumar! 👋
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArunkumarMurugasamy&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArunkumarMurugasamy&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -121,7 +124,7 @@ Hi there, I'm Arunkumar! 👋
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArunkumarMurugasamy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ArunkumarMurugasamy&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
 </div>
 
 ---
